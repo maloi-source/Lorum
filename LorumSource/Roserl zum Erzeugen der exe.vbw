@@ -1,0 +1,12 @@
+frmRoserl = 64, 64, 1203, 771, , 32, 32, 1171, 739, C
+mdCrazyEights = 96, 96, 1235, 803, 
+frmSpielBogen = 320, 320, 1459, 1027, , 160, 160, 1299, 867, C
+frmLetztenStichZeigen = 32, 32, 1171, 739, , 0, 0, 1139, 707, C
+frmBestwerteZeigen = 352, 352, 1491, 1059, , 192, 192, 1331, 899, C
+frmFontSize = 320, 320, 1459, 1027, , 0, 0, 0, 0, C
+Module1 = 160, 160, 1299, 867, 
+UnivbzGlobal = 0, 0, 1139, 707, Z
+frmMsgBox = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+clsScreens = 0, 0, 0, 0, C
+modGetFileVersionInfo = 256, 256, 1395, 963, 
+frmSpielEnde = 288, 288, 1427, 995, , 128, 128, 1267, 835, C
