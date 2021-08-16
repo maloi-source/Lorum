@@ -29,7 +29,7 @@
 
 ## Features
 - play the card game Lorum against your computer. Lorum is famous in Hungary and in Germany
-
+- in germany it is often called Roserl
 
 
 ## Usage
